@@ -14,8 +14,8 @@ Children design the program, calculate the amount of helium needed and then take
 # Learning objectives
 
 * Main components of a computer,
-* Sequences and Loops as fundamental concepts in programming,
-* Writing a simple program,
+* Sequences and Loops as some of the fundamental concepts in programming,
+* Writing a simple program with Scratch,
 * Computers can control cameras, be small and light,
 * Helium is a way to get lift for a balloon,
 * Calculate how big the balloon needs to be to lift the computer.
@@ -24,9 +24,12 @@ Children design the program, calculate the amount of helium needed and then take
 
 * Raspberry Pi,
 * Pi camera,
-* Scales
+* USB Battery pack,
+* Mounting plate,
+* Scales,
 * 200g weather balloon,
 * 20m string on a winder,
+* Calculators
 * 8 [copies of the handout](aerial-handout.html)
 * 8 copies of the scratch blocks
 
@@ -143,11 +146,13 @@ Q: How could we work it out?
 
 Q: How much lift required?
 
-A: We have to weigh the missing parts from the worksheet. Do the weighing and ask children to write down the numbers. Get the children to work out the total weight. It should be around TODOg
+A: We have to weigh the missing parts from the worksheet. Do the weighing and
+ask children to write down the numbers. Get the children to work out the total
+weight. It should be around TODO .
 
 Q: How big do we need the balloon to get the required lift? 
 
-A: We can work it out with maths.
+A: We can work it out with maths. TODO - can we avoid this type of box ticking problem solving?
 
 Activity: Ask children to fill in worksheets to work out how big the balloon should be.
 
@@ -175,6 +180,9 @@ Questions to ask:
 
 ## Get photos off the Pi.
 
-* Use the USB hub to copy photos from SD card onto USB stick.
-* Backup and delete the photos, otherwise the card will quickly run out of space.
+* Put a USB stick in the Pi,
+* Use the file manager to copy photos from the photos directory to the USB
+* stick,
+* Eject the stick,
+* Delete the photos on the Pi (or you will quickly run out of space).
 
