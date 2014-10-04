@@ -1,27 +1,18 @@
 # Kit list
 
 * box
+* charged USB battery pack
 * docs
 * string and attachment
-* valve stuff
 * dry wipe pens
 * scales
-* adapter for weather balloon
-* adapter for fuelcell balloon
-* payload: Pi, baseboard, arduino, wiring, camera, sd card, fuelcell, plumbing, solendoid
+* payload: Pi, baseboard, wiring, camera, sd card
 * weather balloon
-* fuelcell balloon
 * mouse, vga converter, dv adapter
-* usb hub and power supply
 * spare parts/tools:
-    * rubber bands for fuelcell attachment
     * base board spares
-    * small flat screwdriver for fuelcell
-    * fuelcell
-    * plumbing
     * string
     * weather balloon
-    * fuel cell balloon
     * sd card
     * cable ties
 * lesson materials:
