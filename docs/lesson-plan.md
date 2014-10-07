@@ -2,7 +2,10 @@
 % PIffIN
 %
 
-# Aerial Photography
+notes from saturday
+led for? before scratch blocks
+
+# Raspberry Pi Aerial Photography
 
 \ ![Aerial Photography](aerialphoto.jpg)
 
@@ -24,14 +27,17 @@ Children design the program, calculate the amount of helium needed and then take
 
 * Raspberry Pi,
 * Pi camera,
-* USB Battery pack,
+* fully charged USB Battery pack,
 * Mounting plate,
 * Scales,
-* 200g weather balloon,
+* 3 large balloons
 * 20m string on a winder,
 * Calculators
 * 8 [copies of the handout](aerial-handout.html)
 * 8 copies of the scratch blocks
+* 8 dry wipe markers
+
+* duct tape, string? todo
 
 # Preparation
 
@@ -134,7 +140,7 @@ A: Batteries, solar panels, etc. We'll be using a small rechargable battery. Sho
 
 ## Lift : 25 minutes
 
-Show the worksheet picture (6-worksheet).
+Show the worksheet picture (4-worksheet).
 
 Q: How can we get lift?
 
@@ -148,13 +154,18 @@ Q: How much lift required?
 
 A: We have to weigh the missing parts from the worksheet. Do the weighing and
 ask children to write down the numbers. Get the children to work out the total
-weight. It should be around TODO .
+weight. It should be around 300g.
 
-Q: How big do we need the balloon to get the required lift? 
+Q: We're going to use 3 balloons to store the helium. What volume do we need the
+balloon to get the required lift?
 
-A: We can work it out with maths. TODO - can we avoid this type of box ticking problem solving?
+A: We can work it out with maths. Get the children to fill in volume part of the
+worksheet.
 
-Activity: Ask children to fill in worksheets to work out how big the balloon should be.
+Q. Now let's guess what radius the balloons will be for this volume.  Load the
+`volume of sphere.sb` scratch program. Ask the children to make guesses for the
+radius and it will plot the volume. You are trying to find the volume that the
+children calculated with the worksheet.
 
 ## Launch! : 30 minutes
 
@@ -181,8 +192,7 @@ Questions to ask:
 ## Get photos off the Pi.
 
 * Put a USB stick in the Pi,
-* Use the file manager to copy photos from the photos directory to the USB
-* stick,
+* Use the file manager to copy photos from the photos directory to the USB stick,
 * Eject the stick,
 * Delete the photos on the Pi (or you will quickly run out of space).
 
