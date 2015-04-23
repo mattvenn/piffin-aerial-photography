@@ -155,7 +155,7 @@ Q: How much lift required?
 
 A: We have to weigh the missing parts from the worksheet. Do the weighing and
 ask children to write down the numbers. Get the children to work out the total
-weight. It should be around 300g.
+weight. It should be around 350g.
 
 Q: We're going to use 3 balloons to store the helium. What volume do we need the
 balloon to get the required lift?
