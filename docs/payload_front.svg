@@ -14,7 +14,7 @@
    height="264.34125"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="payload_front.svg">
   <defs
      id="defs4">
@@ -115,76 +115,62 @@
      id="layer1"
      transform="translate(-36.323662,-50.647892)">
     <image
-       y="50.647892"
-       x="43.857136"
-       id="image3120"
-       xlink:href="file:///home/matthew/work/cpdworkshops/raspi/aerial-photography/docs/payload_front.jpg"
+       sodipodi:absref="/home/mattvenn/piffin-aerial-photography/docs/payload_front.jpg"
+       xlink:href="payload_front.jpg"
+       width="662.28571"
        height="191.60468"
-       width="662.28571" />
+       id="image3120"
+       x="43.857136"
+       y="50.647892" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="65.714287"
+       x="110"
        y="306.09558"
        id="text3177"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3179"
-         x="65.714287"
+         x="110"
          y="306.09558">Reset</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="255.51483"
+       x="312.65768"
        y="306.28015"
        id="text3177-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3179-2"
-         x="255.51483"
+         x="312.65768"
          y="306.28015">Status LED</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="442.95114"
-       y="306.28015"
+       x="507.23685"
+       y="307.70871"
        id="text3177-1-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3179-2-4"
-         x="442.95114"
-         y="306.28015">Camera</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="631.9519"
-       y="306.75476"
-       id="text3177-1-8-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3179-2-4-1"
-         x="631.9519"
-         y="306.75476">Power switch</tspan></text>
+         x="507.23685"
+         y="307.70871">Camera</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 80,273.79075 41.42857,-90"
+       d="m 111.42857,276.64789 35.71429,-84.28571"
        id="path3244"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 252.14285,273.07647 -7.14284,-85.71429"
+       d="M 309.28571,274.50504 270.7143,181.64789"
        id="path3244-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 435.00001,278.79075 41.42857,-90"
+       d="M 497.85715,278.79075 445.00001,173.07646"
        id="path3244-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 615,278.79076 12.85714,-91.42857"
-       id="path3244-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>

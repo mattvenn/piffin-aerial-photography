@@ -14,7 +14,7 @@
    height="622.85712"
    id="svg4523"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="payload_top.svg">
   <defs
      id="defs4525">
@@ -185,12 +185,13 @@
      id="layer1"
      transform="translate(87.99996,-109.23371)">
     <image
-       y="109.23371"
-       x="65.786659"
-       id="image4755"
-       xlink:href="file:///home/matthew/work/cpdworkshops/raspi/aerial-photography/docs/payload_top.jpg"
+       sodipodi:absref="/home/mattvenn/piffin-aerial-photography/docs/./payload_top.jpg"
+       xlink:href="./payload_top.jpg"
+       width="616.21332"
        height="622.85712"
-       width="616.21332" />
+       id="image4755"
+       x="65.786659"
+       y="109.23371" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
@@ -205,17 +206,6 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="780.96588"
-       y="445.11487"
-       id="text3177-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3179-2"
-         x="780.96588"
-         y="445.11487">Purge solenoid</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
        x="7.4726963"
        y="270.35846"
        id="text3177-1-8"
@@ -223,47 +213,13 @@
          sodipodi:role="line"
          id="tspan3179-2-4"
          x="7.4726963"
-         y="270.35846">Fuelcell</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="794.95807"
-       y="303.15796"
-       id="text3177-1-8-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3179-2-4-1"
-         x="794.95807"
-         y="303.15796">Fuelcell controller</tspan></text>
+         y="270.35846">Battery</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 70.122922,488.60363 81.932918,-6.67677"
        id="path3244"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 684.35075,442.68388 627.41162,431.37804"
-       id="path3244-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 686.13162,299.18278 -75.09516,-4.63354"
-       id="path3244-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="-15.097616"
-       y="344.38937"
-       id="text3177-1-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3179-2-9"
-         x="-15.097616"
-         y="344.38937">Purge valve</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
@@ -283,31 +239,8 @@
        sodipodi:nodetypes="cc" />
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 64.923477,343.98133 44.900373,-0.89044"
-       id="path3244-82"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 64.923477,267.60171 170.00174,260.92494"
+       d="m 64.923477,267.60171 101.606463,11.8395"
        id="path3244-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
-       x="-10.712935"
-       y="160.18381"
-       id="text3177-1-8-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3179-2-4-0"
-         x="-10.712935"
-         y="160.18381">Fuelcell inlet</tspan></text>
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 74.512265,152.79799 203.445955,6.05317"
-       id="path3244-2-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
@@ -323,7 +256,7 @@
          y="529.12646">Pi LEDs</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 683.71909,518.94619 468.26818,420.50196"
+       d="M 683.71909,518.94619 474.05452,417.03016"
        id="path3244-5-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -337,10 +270,10 @@
          sodipodi:role="line"
          id="tspan3179-2-4-1-9"
          x="773.39056"
-         y="212.95518">Fuelcell LEDs</tspan></text>
+         y="212.95518">Attachment</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Lend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 682.09766,206.12895 -120.22857,8.0964"
+       d="M 682.09766,206.12895 402.16624,194.55181"
        id="path3244-1-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
